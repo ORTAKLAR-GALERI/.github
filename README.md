@@ -1,96 +1,44 @@
 <div align="center">
-
-```
-o r t a k s
-```
-
-# 🕶 ortaklar galeri
-
-```bash
-> booting...
-> glitch detected...
-> ego stripped.
-> access: root
-```
-
+  <img src="https://raw.githubusercontent.com/half-blooded/matrix-gif/main/matrix.gif" width="100%" alt="matrix">
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=100&color=00FF00&center=true&vCenter=true&width=490&lines=ortaklar+galeri;dijital+yeralti;sistem+s%C4%B1z%C4%B1l%C4%B1yor..." alt="typing">
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/status-online-00ff00?style=for-the-badge&labelColor=0a0a0a&color=00ff00" alt="status">
+    <img src="https://img.shields.io/badge/access-restricted-ff0000?style=for-the-badge&labelColor=0a0a0a&color=ff0000" alt="access">
+  </p>
 </div>
 
 ---
 
-## ▌ biz
+### `// 0x01_giris_protokolu`
+> sistem. sıfır. bir.
+> ortaklar galeri. karanlıkta kod yazanlar, karanlığa hükmedenler.
+> büyük harf kullanmak, zayıfların işi.
+> biz fısıltılarla iletişim kurar, kodlarla savaşırız.
 
-```txt
-az konuşuruz.
-çok yazarız.
+### `// 0x02_misyon`
+* `// gerceklik_manipulasyonu`: dijital dünyayı parmaklarımızın ucunda büküyoruz.
+* `// sifir_gun_avcisi`: sıfır gün açıklarını koleksiyonumuza katıyoruz.
+* `// kaosu_kodlama`: her şey planlı, her şey kaosun bir parçası.
 
-trend kovalamayız.
-sağlamlık kovalarız.
-
-çalışmayan şeyi
-ya düzeltiriz
-ya sileriz.
-```
-
----
-
-## ▌ stack
-
-```yaml
-backend: [node.js, go, typescript, postgresql]
-frontend: [react, next.js]
-infra: [docker, kubernetes]
-```
-
-gereksiz teknoloji yok.  
-gereksiz katman yok.  
-gereksiz insan da yok.
-
----
-
-## ▌ geliştirme
-
+### `// 0x03_terminal`
 ```bash
-commit "sonra bakarız"
-# rejected.
+>>> whoami
+ortaklar_galeri_operator
+>>> access_level
+root
+>>> system_status
+online. awaiting orders.
+>>> sudo rm -rf /kurallar
+>>> echo "simulasyonu kirin."
 ```
 
-- test yoksa merge yok  
-- açıklama yoksa ciddiyet yok  
-- production oyuncak değil  
-
-debug production’da yapılmaz.  
-production debug’a muhtaç bırakılmaz.
+### `// 0x04_ortaklar`
+buradaki herkes birer gölge. isimsiz, bilisiz, ama her biri birer dijital cellat.
+eğer buradaysan, kodun kadar konuşursun.
 
 ---
-
-## ▌ çekirdek
-
-```bash
-> validating users...
-> 2 confirmed.
-```
-
-- @ardak  
-- @curcunyo  
-
-```txt
-rol: ortak
-mod: sakin
-tolerans: düşük
-```
-
----
-
-## ▌ son
-
-```txt
-bazıları kod yazar.
-bazıları sistem kurar.
-
-biz çekirdekteyiz.
-```
-
-> sessiz kal.  
-> sağlam yaz.  
-> gereksiz konuşma.  
-> deploy et.
+<div align="right">
+  <img src="https://img.shields.io/badge/encoded_by-shadows-000000?style=flat-square&logo=github&labelColor=000000&color=00ff00" alt="encoded">
+</div>
